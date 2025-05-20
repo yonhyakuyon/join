@@ -1,4 +1,6 @@
-![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php)
-![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/yonhyakuyon/join)
-![Code Size](https://img.shields.io/github/languages/code-size/yonhyakuyon/join)
+# join 🔗
+![GitHub last commit](https://img.shields.io/github/last-commit/yonhyakuyon/join?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/yonhyakuyon/join?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+**Data Joining Utility** — A tool for merging datasets or tables based on common keys. Ideal for ETL pipelines and data preprocessing.
